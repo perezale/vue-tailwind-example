@@ -1,5 +1,7 @@
 # dashboard
 
+Tutorial by https://medium.com/backticks-tildes/how-to-configure-your-vue-js-app-to-use-tailwind-css-a6f95d06e1c7
+
 ## Project setup
 ```
 npm install
